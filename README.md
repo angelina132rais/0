@@ -18,6 +18,6 @@
     border-color: #f2f9fc !important;
 }
 </style>
-<a href="http://daruse.ru/generator-knopok-online" class="button_1670292650257" target="_blank">
+<a href="https://s09.stc.yc.kpcdn.net/share/i/12/12489489/wr-960.webp" class="button_1670292650257" target="_blank">
   БАХАЙ!
 </a>
